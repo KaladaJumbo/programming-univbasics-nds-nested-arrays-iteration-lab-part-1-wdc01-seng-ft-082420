@@ -1,7 +1,3 @@
-test = [ [10, 11], [99, 50, 3, 4], [23, 41] ]
-
-find_even_values(test)
-
 def find_even_values(src)
   # Given an Array of Arrays of Integers ( [ [10, 11], [99, 50, 3, 4], [23, 41] ] ):
   #
@@ -25,3 +21,7 @@ def find_even_values(src)
   end 
 
 end
+
+test = [ [10, 11], [99, 50, 3, 4], [23, 41] ]
+
+find_even_values(test)
