@@ -12,6 +12,7 @@ def find_even_values(src)
       
       if src[row][item] % 2 == 0
         puts src[row][item]
+        puts src.length
       end
       
       item += 1 
