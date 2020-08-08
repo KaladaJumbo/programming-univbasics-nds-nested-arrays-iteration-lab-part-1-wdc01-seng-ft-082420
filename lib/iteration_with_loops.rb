@@ -23,6 +23,6 @@ def find_even_values(src)
 
 end
 
-test = [ [10, 11], [99, 50, 3, 4, 12], [23, 41], [2, 4, 6] ]
+test = [ [10, 11, 14], [99, 50, 3, 4, 12], [23, 41], [2, 4, 6] ]
 
 find_even_values(test)
