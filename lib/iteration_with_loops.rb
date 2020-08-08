@@ -19,6 +19,7 @@ def find_even_values(src)
     end
     
     row += 1
+    puts row
   end 
 
 end
